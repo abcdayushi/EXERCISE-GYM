@@ -1,4 +1,7 @@
+
 Welcome to Exercise Gym, a React website dedicated to fitness enthusiasts looking for exercise videos sourced from YouTube API.
+![gym 1](https://github.com/user-attachments/assets/83d29565-d90c-479f-ae27-1697dd14ca72)
+![gym 2](https://github.com/user-attachments/assets/16f7f369-61c8-4ab1-8a95-cdd15600bc4c)
 
  Features
 
@@ -36,6 +39,6 @@ Follow these instructions to get the project up and running on  local machine.
 4. Install dependencies:
    npm install
    
-6. Usage
+6. Usage:
   npm start
 
